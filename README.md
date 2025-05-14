@@ -35,5 +35,5 @@
 
 ### 📫 Contacto
 
-- [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/donato-bernacchi/))
+- [LinkedIn](https://www.linkedin.com/in/donato-bernacchi)
 - [Email](mailto:dona04122@gmail.com)
