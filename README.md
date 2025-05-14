@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Donato 👋</h1>
 
 <p align="center">
-  🧠 Desarrollador web autodidacta · 18 años <br>
+  🧠 Desarrollador autodidacta · 18 años <br>
   💻 Apasionado por crear soluciones digitales con JavaScript, React, Node.js y MongoDB <br>
   📍 Argentina · aprendiendo todos los días
 </p>
