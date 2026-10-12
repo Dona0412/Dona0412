@@ -1,23 +1,21 @@
-<h1 align="center">Hola! Soy Donato 👋</h1>
+# Hi! I'm Donato 👋
 
-<p align="center">
-  🧠 Desarrollador autodidacta · 18 años <br>
-  💻 Apasionado por crear soluciones digitales con JavaScript, React, Node.js y MongoDB <br>
-  📍 Argentina · aprendiendo todos los días
-</p>
+🧠 Self-taught developer  
+💻 Experience with JavaScript, React, Node.js, MongoDB, C, Python, and R  
+📍 West Lafayette, Indiana
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- 🛠️ Me formé de forma autodidacta desde los 15 años
-- 👨‍💻 Me encanta crear proyectos que resuelvan problemas reales
-- 💡 Siempre estoy aprendiendo algo nuevo: actualmente profundizando en desarrollo **full-stack**
-- 🎯 Busco oportunidades para crecer como desarrollador y trabajar en equipos con impacto
+- 🛠️ Self-taught developer since age 15
+- 💡 Passionate about solving real-world problems through technology
+- 🎯 Interested in software development, data science, and AI
+- 🤝 Always looking to learn, grow, and collaborate
 
 ---
 
-### 🧰 Tecnologías que uso
+### 🧰 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -25,11 +23,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 
----
-
-
-> 👉 Podés ver todos mis proyectos en la sección de repositorios.
 
 ---
 
